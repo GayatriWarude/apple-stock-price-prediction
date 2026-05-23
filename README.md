@@ -57,10 +57,22 @@ The project was deployed using Streamlit to create an interactive dashboard wher
 
 ## How to Run the Project
 
-## Install Requirements
+### 1. Clone the Repository
+https://github.com/GayatriWarude/apple-stock-price-prediction.git
+
+### 2. Open Project Folder
+cd apple-stock-price-prediction
+
+### 3. Install Required Libraries
 pip install -r requirements.txt
-## Run Streamlit App
+
+### 4. Run the Streamlit Application
 streamlit run app.py
+
+### 5. Open in Browser
+After running the command, the project will open in your browser at:
+http://localhost:8501
+
 
 ## Future Improvements
 - Add real-time stock API integration
