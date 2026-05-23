@@ -69,11 +69,6 @@ pip install -r requirements.txt
 ### 4. Run the Streamlit Application
 streamlit run app.py
 
-### 5. Open in Browser
-After running the command, the project will open in your browser at:
-http://localhost:8501
-
-
 ## Future Improvements
 - Add real-time stock API integration
 - Improve prediction accuracy
